@@ -1,0 +1,34 @@
+alright alright alright alright
+
+MAKE SOME MOLECULES
+
+and an organism or something
+
+looks a lot like React
+
+So we're gonna need to apply the styles from Phantom HTML5 whatever and the images from it
+
+We should be able to dynamically render this stuff, but let's work on getting it to render at all first
+
+TASK LIST:
+
+- successfully import styles
+- render images
+- apply pattern lab styles
+
+
+OK WELL HANG ON WHAT DO EACH OF THESE THINGS DO
+
+  Well, it looks like the Phantom stuff is only providing us with a stylesheet
+  And the images are just images.  Duh.
+
+  Pattern lab is a P2 thing that uses Atomic design?  Is Atomic Design a principle or a framework or a library or what
+
+  (researches)
+
+  OK SO Pattern Lab is "a static site generator powered by PHP that stitches UI components together."  So it's like Jekyll, but bigger?  And for PHP/node instead of Ruby.  K.
+
+  Looks like 'atoms', 'molecules', 'organisms' et al are just synonyms for components.  That's kinda handy.
+
+
+So we've got the stylesheet at scss/main.scss, and the images at images/phantom/
