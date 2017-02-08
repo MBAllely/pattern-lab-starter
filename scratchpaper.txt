@@ -32,3 +32,36 @@ OK WELL HANG ON WHAT DO EACH OF THESE THINGS DO
 
 
 So we've got the stylesheet at scss/main.scss, and the images at images/phantom/
+
+
+<section class="tiles">
+
+    {% include "@molecules/box-thumbnail/box-thumbnail.twig" with {
+      style: 'style1',
+      img: '../../../../images/phantom/pic01.jpg',
+      header: 'Magna'
+    } %}
+    {% include "@molecules/box-thumbnail/box-thumbnail.twig" with {
+      style: 'style2',
+      img: '../../../../images/phantom/pic02.jpg',
+      header: 'Lorem'
+    } %}
+    {% include "@molecules/box-thumbnail/box-thumbnail.twig" with {
+      style: 'style3',
+      img: '../../../../images/phantom/pic03.jpg',
+      header: 'Feugiat'
+    } %}
+    {% include "@molecules/box-thumbnail/box-thumbnail.twig" with {
+      style: 'style4',
+      img: '../../../../images/phantom/pic04.jpg',
+      header: 'Tempus'
+    } %}
+    {% include "@molecules/box-thumbnail/box-thumbnail.twig" with {
+      style: 'style5',
+      img: '../../../../images/phantom/pic05.jpg',
+      header: 'Aliquam'
+    } %}
+
+    {% include "@organsims/thumbnail-grid/thumbnail-grid.json" %}
+
+</section>

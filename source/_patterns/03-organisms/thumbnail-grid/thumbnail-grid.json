@@ -1,34 +1,64 @@
 {
   "tiles": [
-    { "tile1": {
-        "style": "style1",
-        "img":"../../../../images/phantom/pic01.jpg",
-        "header": "Magna"
-      }
+    {
+      "style": "style1",
+      "img":"../../../../images/phantom/pic01.jpg",
+      "header": "Magna"
     },
-    { "tile2": {
-        "style": "style2",
-        "img":"../../../../images/phantom/pic02.jpg",
-        "header": "Lorem"
-      }
+    {
+      "style": "style2",
+      "img":"../../../../images/phantom/pic02.jpg",
+      "header": "Lorem"
     },
-    { "tile3": {
-        "style": "style3",
-        "img":"../../../../images/phantom/pic03.jpg",
-        "header": "Feugiat"
-      }
+    {
+      "style": "style3",
+      "img":"../../../../images/phantom/pic03.jpg",
+      "header": "Feugiat"
     },
-    { "tile4": {
-        "style": "style4",
-        "img":"../../../../images/phantom/pic04.jpg",
-        "header": "Tempus"
-      }
+    {
+      "style": "style4",
+      "img":"../../../../images/phantom/pic04.jpg",
+      "header": "Tempus"
     },
-    { "tile5": {
-        "style": "style5",
-        "img":"../../../../images/phantom/pic05.jpg",
-        "header": "Aliquam"
-      }
+    {
+      "style": "style5",
+      "img":"../../../../images/phantom/pic05.jpg",
+      "header": "Aliquam"
+    },
+    {
+      "style": "style6",
+      "img":"../../../../images/phantom/pic06.jpg",
+      "header": "Veroeros"
+    },
+    {
+      "style": "style2",
+      "img":"../../../../images/phantom/pic07.jpg",
+      "header": "Ipsum"
+    },
+    {
+      "style": "style3",
+      "img":"../../../../images/phantom/pic08.jpg",
+      "header": "Dolor"
+    },
+    {
+      "style": "style1",
+      "img":"../../../../images/phantom/pic09.jpg",
+      "header": "Nullam"
+    },
+    {
+      "style": "style5",
+      "img":"../../../../images/phantom/pic10.jpg",
+      "header": "Ultricies"
+    },
+    {
+      "style": "style6",
+      "img":"../../../../images/phantom/pic11.jpg",
+      "header": "Dictum"
+    },
+    {
+      "style": "style4",
+      "img":"../../../../images/phantom/pic12.jpg",
+      "header": "Pretium"
     }
   ]
 }
